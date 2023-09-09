@@ -2,15 +2,6 @@
 
 ----------
 
-npm uninstall @fortawesome/fontawesome-svg-core @emotion/styled @emotion/react
-
-    "fuse.js": "^6.6.2",
-    
-    "@mui/icons-material": "^5.14.8",
-    "@mui/material": "^5.14.8",
-
-    npm install @mui/material @emotion/styled @emotion/react @mui/icons-material
-
 👋 Hello, I'm Sathyanarayanan.
 
 **Front End Technologies Used : React.JS, Material-UI** 
